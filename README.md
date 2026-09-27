@@ -91,7 +91,11 @@ Le scénario de panne a été simulé en coupant l'interface active du routeur p
 
 ## 📥 Tester le projet
 
-Le fichier de simulation Cisco Packet Tracer (`.pkt`) est disponible dans ce dépôt : **[Datacenter_redondant.pkt](./Datacenter_redondant.pkt)**.
+Le fichier de simulation Cisco Packet Tracer (`.pkt`) est disponible dans ce dépôt et prêt à être téléchargé directement :
+
+**➡️ [Télécharger Datacenter_redondant.pkt](https://raw.githubusercontent.com/Od45/datacenter-redundancy-etherchannel-hsrp/main/Datacenter_redondant.pkt)**
+
+> ⚠️ Remplace `datacenter-redundancy-etherchannel-hsrp` dans le lien ci-dessus par le nom exact que tu donnes à ce dépôt sur GitHub, s'il diffère.
 
 Ouvre-le avec [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (gratuit, inscription NetAcad requise) pour :
 - explorer la configuration complète des deux switches de distribution et des deux routeurs,
