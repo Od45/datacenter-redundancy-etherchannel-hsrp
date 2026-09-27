@@ -95,7 +95,7 @@ Le fichier de simulation Cisco Packet Tracer (`.pkt`) est disponible dans ce dé
 
 **➡️ [Télécharger Datacenter_redondant.pkt](https://raw.githubusercontent.com/Od45/datacenter-redundancy-etherchannel-hsrp/main/Datacenter_redondant.pkt)**
 
-> ⚠️ Remplace `datacenter-redundancy-etherchannel-hsrp` dans le lien ci-dessus par le nom exact que tu donnes à ce dépôt sur GitHub, s'il diffère.
+
 
 Ouvre-le avec [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (gratuit, inscription NetAcad requise) pour :
 - explorer la configuration complète des deux switches de distribution et des deux routeurs,
